@@ -1,0 +1,28 @@
+name: Scrap XKCD Comic
+on:
+  schedule:
+    - cron:  '0 * * * *'
+  workflow_dispatch:
+jobs:
+    get-xkcd-comic:
+        name: 
+        runs-on: ubuntu-latest
+        environment: production
+        permissions:
+            contents: write
+        steps:
+            - uses: actions/checkout@v4
+              with:
+                ref: main
+            - uses: actions/setup-python@v5
+              with:
+                python-version: '3.11.x'
+                cache: 'pip'
+            - name: Install dependencies
+              run: pip install -r requirements.txt
+            - name: Check codes
+              run: python main.py
+            - name: Update repo with new data
+              uses: stefanzweifel/git-auto-commit-action@v5
+              with:
+                  commit_message: automated update
