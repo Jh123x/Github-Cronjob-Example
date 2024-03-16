@@ -41,9 +41,9 @@ def generate_markdown(title: str, img_url: str, alt: str, num: int) -> str:
     )
 
 
-def generate_content_line(title: str, date: str, file_name: str) -> str:
+def generate_content_line(title: str, date: str, url_path: str) -> str:
     """Generate the content line for the content page"""
-    return f"| {date} | {title} | [Link](./{file_name} \"{title}\") |"
+    return f"| {date} | {title} | [Link](./{url_path} \"{title}\") |"
 
 
 def insert_to_content_page(title: str, date: str, file_name: str):
@@ -95,4 +95,5 @@ if __name__ == '__main__':
     # Update the content page
     date_now = datetime.datetime.now().strftime(DATE_FORMAT)
     content_line = generate_content_line(title, date_now, file_name)
-    insert_to_content_page(title, date_now, file_name)
+    url_path = file_name.strip(".md")
+    insert_to_content_page(title, date_now, url_path)
