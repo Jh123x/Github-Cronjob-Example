@@ -6,6 +6,4 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 
 | Date | Title | Link |
 | ---- | ----- | ---- |
-| 2024-03-16 | Schwa | [Link](./2024-03-16_Schwa "Schwa") |
-| 2024-03-18 | Schwa | [Link](./2024-03-18_Schwa "Schwa") |
-| 2024-03-17 | Schwa | [Link](./2024-03-17_Schwa "Schwa") |
+| 2024-03-18 | Barrel - Part 1 | [Link](./2024-03-18_Barrel - Part 1 "Barrel - Part 1") |

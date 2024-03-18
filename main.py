@@ -11,7 +11,7 @@ CONTENT_DIR = os.path.join(MD_DIR, "index.md")
 
 DATE_FORMAT = "%Y-%m-%d"
 TITLE_FORMAT = "{date}_{title}.md"
-DATA_URL = "https://xkcd.com/info.0.json"
+DATA_URL = "https://xkcd.com/{page_no}/info.0.json"
 MARKDOWN_FORMAT = """
 # XKCD Comic for day {date}
 
@@ -58,7 +58,7 @@ def insert_to_content_page(title: str, date: str, file_name: str):
     new_line = generate_content_line(title, date, file_name)
     line_set.add(new_line)
     lines = list(line_set)
-    lines.sort(key=lambda x: x.split("|")[0], reverse=True)
+    lines.sort(key=lambda x: x.split("|")[0])
     result.extend(line_set)
     with open(CONTENT_DIR, "w") as f:
         f.write("\n".join(filter(lambda x: len(x.strip()) > 0, result)))
@@ -69,9 +69,13 @@ if __name__ == '__main__':
     logging.basicConfig(level=logging.INFO)
     logger = logging.getLogger(__name__)
 
+    day_since_creation = datetime.datetime.now() - datetime.datetime(2024, 3, 17)
+
     # Call the api
     with requests.Session() as session:
-        response = session.get(DATA_URL)
+        response = session.get(
+            DATA_URL.format(page_no=day_since_creation.days),
+        )
         if response.status_code >= 400:
             logger.critical(
                 f"Failed to get the data from the API. Status code: {response.status_code}")
