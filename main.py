@@ -21,7 +21,7 @@ MARKDOWN_FORMAT = """
 
 [Visit the original page](https://xkcd.com/{num}/)
 """
-CONTENT_PAGE_SPLIT = "| ---- | ----- | ---- |"
+CONTENT_PAGE_SPLIT = "s| ---------- | -------------------- | ---------------------------------------------------------------- |"
 
 
 def generate_file_name(title: str) -> str:
@@ -57,9 +57,9 @@ def insert_to_content_page(title: str, date: str, file_name: str):
 
     new_line = generate_content_line(title, date, file_name)
     line_set.add(new_line)
-    lines = list(line_set)
-    lines.sort(key=lambda x: x.split("|")[0])
-    result.extend(line_set)
+    lines = list(filter(lambda x: x.strip(), line_set))
+    lines.sort(key=lambda x: x.split("|")[1], reverse=True)
+    result.extend(lines)
     with open(CONTENT_DIR, "w") as f:
         f.write("\n".join(filter(lambda x: len(x.strip()) > 0, result)))
 
