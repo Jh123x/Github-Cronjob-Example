@@ -21,7 +21,7 @@ MARKDOWN_FORMAT = """
 
 [Visit the original page](https://xkcd.com/{num}/)
 """
-CONTENT_PAGE_SPLIT = "s| ---------- | -------------------- | ---------------------------------------------------------------- |"
+CONTENT_PAGE_SPLIT = "| ---------- | -------------------- | ---------------------------------------------------------------- |"
 
 
 def generate_file_name(title: str) -> str:
@@ -43,7 +43,7 @@ def generate_markdown(title: str, img_url: str, alt: str, num: int) -> str:
 
 def generate_content_line(title: str, date: str, url_path: str) -> str:
     """Generate the content line for the content page"""
-    return f"| {date} | {title} | [Link](./{url_path} \"{title}\") |"
+    return f"| {date:10} | {title:30} | [Link](./{url_path} \"{title}\") |"
 
 
 def insert_to_content_page(title: str, date: str, file_name: str):
@@ -53,15 +53,16 @@ def insert_to_content_page(title: str, date: str, file_name: str):
 
     headers, contents = data.split(CONTENT_PAGE_SPLIT)
     result = [headers.strip(), CONTENT_PAGE_SPLIT.strip()]
-    line_set = set(contents.split("\n"))
+    line_set = set(filter(lambda x: x.strip(), contents.split("\n")))
 
     new_line = generate_content_line(title, date, file_name)
     line_set.add(new_line)
-    lines = list(filter(lambda x: x.strip(), line_set))
+    lines = list(line_set)
     lines.sort(key=lambda x: x.split("|")[1], reverse=True)
     result.extend(lines)
     with open(CONTENT_DIR, "w") as f:
         f.write("\n".join(filter(lambda x: len(x.strip()) > 0, result)))
+        f.write("\n")
 
 
 if __name__ == '__main__':
