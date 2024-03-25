@@ -6,6 +6,7 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 
 | Date       | Title                | Link                                                             |
 | ---------- | -------------------- | ---------------------------------------------------------------- |
+| 2024-03-25 | Red spiders                    | [Link](./2024-03-25_Red spiders "Red spiders") |
 | 2024-03-24 | Girl sleeping (Sketch -- 11th grade Spanish class) | [Link](./2024-03-24_Girl sleeping (Sketch -- 11th grade Spanish class) "Girl sleeping (Sketch -- 11th grade Spanish class)") |
 | 2024-03-23 | Irony                          | [Link](./2024-03-23_Irony "Irony") |
 | 2024-03-22 | Blown apart          | [Link](./2024-03-22_Blown apart "Blown apart")                   |
