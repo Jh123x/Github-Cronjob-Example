@@ -89,16 +89,14 @@ if __name__ == '__main__':
     alt = data.get("alt", "No alt")
     num = data.get("num", "1")
 
-    # Generate contents
-    contents = generate_markdown(title, img_url, alt, int(num))
-
     # Create the file
-    file_name = generate_file_name(title)
-    with open(os.path.join(MD_DIR, file_name), "w") as file:
-        file.write(contents)
+    file_name = os.path.join(MD_DIR, generate_file_name(title))
+    with open(file_name, "w") as file:
+        file.write(generate_markdown(title, img_url, alt, int(num)))
 
     # Update the content page
-    date_now = datetime.datetime.now().strftime(DATE_FORMAT)
-    content_line = generate_content_line(title, date_now, file_name)
-    url_path = file_name.strip(".md")
-    insert_to_content_page(title, date_now, url_path)
+    insert_to_content_page(
+        title,
+        datetime.datetime.now().strftime(DATE_FORMAT),
+        file_name.strip(".md"),
+    )
