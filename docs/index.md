@@ -6,6 +6,7 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 
 | Date       | Title                | Link                                                             |
 | ---------- | -------------------- | ---------------------------------------------------------------- |
+| 2024-03-27 | Pi Equals                      | [Link](.//home/runner/work/Github-Cronjob-Example/Github-Cronjob-Example/docs/2024-03-27_Pi Equals "Pi Equals") |
 | 2024-03-26 | Serenity is coming out tomorrow | [Link](./2024-03-26_Serenity is coming out tomorrow "Serenity is coming out tomorrow") |
 | 2024-03-26 | Serenity is coming out tomorrow | [Link](.//home/runner/work/Github-Cronjob-Example/Github-Cronjob-Example/docs/2024-03-26_Serenity is coming out tomorrow "Serenity is coming out tomorrow") |
 | 2024-03-25 | Red spiders                    | [Link](./2024-03-25_Red spiders "Red spiders") |
