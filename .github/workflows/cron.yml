@@ -1,11 +1,11 @@
 name: Scrap XKCD Comic
 on:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "0 0 */1 * *"
   workflow_dispatch:
 jobs:
   get-xkcd-comic:
-    name:
+    name: Get XKCD Comic and Publish
     runs-on: ubuntu-latest
     environment: production
     permissions:
