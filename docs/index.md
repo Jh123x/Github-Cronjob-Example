@@ -9,8 +9,8 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 | 2024-03-29 | Poisson                        | [Link](.//home/runner/work/Github-Cronjob-Example/Github-Cronjob-Example/docs/2024-03-29_Poisson "Poisson") |
 | 2024-03-28 | Barrel - Part 2                | [Link](.//home/runner/work/Github-Cronjob-Example/Github-Cronjob-Example/docs/2024-03-28_Barrel - Part 2 "Barrel - Part 2") |
 | 2024-03-27 | Pi Equals                      | [Link](.//home/runner/work/Github-Cronjob-Example/Github-Cronjob-Example/docs/2024-03-27_Pi Equals "Pi Equals") |
-| 2024-03-26 | Serenity is coming out tomorrow | [Link](./2024-03-26_Serenity is coming out tomorrow "Serenity is coming out tomorrow") |
 | 2024-03-26 | Serenity is coming out tomorrow | [Link](.//home/runner/work/Github-Cronjob-Example/Github-Cronjob-Example/docs/2024-03-26_Serenity is coming out tomorrow "Serenity is coming out tomorrow") |
+| 2024-03-26 | Serenity is coming out tomorrow | [Link](./2024-03-26_Serenity is coming out tomorrow "Serenity is coming out tomorrow") |
 | 2024-03-25 | Red spiders                    | [Link](./2024-03-25_Red spiders "Red spiders") |
 | 2024-03-24 | Girl sleeping (Sketch -- 11th grade Spanish class) | [Link](./2024-03-24_Girl sleeping (Sketch -- 11th grade Spanish class) "Girl sleeping (Sketch -- 11th grade Spanish class)") |
 | 2024-03-23 | Irony                          | [Link](./2024-03-23_Irony "Irony") |
