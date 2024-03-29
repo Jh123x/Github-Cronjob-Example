@@ -6,7 +6,7 @@ import os           # File operations
 from typing import Dict
 
 
-MD_DIR = os.path.join(os.path.dirname(__file__), "docs")
+MD_DIR = "docs"
 CONTENT_DIR = os.path.join(MD_DIR, "index.md")
 
 DATE_FORMAT = "%Y-%m-%d"
@@ -70,7 +70,8 @@ if __name__ == '__main__':
     logging.basicConfig(level=logging.INFO)
     logger = logging.getLogger(__name__)
 
-    day_since_creation = datetime.datetime.now() - datetime.datetime(2024, 3, 17)
+    current_time = datetime.datetime.now()
+    day_since_creation = current_time - datetime.datetime(2024, 3, 17)
 
     # Call the api
     with requests.Session() as session:
@@ -90,13 +91,13 @@ if __name__ == '__main__':
     num = data.get("num", "1")
 
     # Create the file
-    file_name = os.path.join(MD_DIR, generate_file_name(title))
-    with open(file_name, "w") as file:
+    file_name = generate_file_name(title)
+    with open(os.path.join(MD_DIR, file_name), "w") as file:
         file.write(generate_markdown(title, img_url, alt, int(num)))
 
     # Update the content page
     insert_to_content_page(
         title,
-        datetime.datetime.now().strftime(DATE_FORMAT),
+        current_time.strftime(DATE_FORMAT),
         file_name.strip(".md"),
     )
