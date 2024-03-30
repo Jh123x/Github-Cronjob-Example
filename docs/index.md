@@ -6,6 +6,7 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 
 | Date       | Title                | Link                                                             |
 | ---------- | -------------------- | ---------------------------------------------------------------- |
+| 2024-03-30 | Canyon                         | [Link](./2024-03-30_Canyon "Canyon") |
 | 2024-03-29 | Poisson                        | [Link](./2024-03-29_Poisson "Poisson") |
 | 2024-03-28 | Barrel - Part 2                | [Link](./2024-03-29_Barrel - Part 2 "Barrel - Part 2") |
 | 2024-03-27 | Pi Equals                      | [Link](./2024-03-29_Pi Equals "Pi Equals") |
