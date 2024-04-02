@@ -6,6 +6,7 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 
 | Date       | Title                | Link                                                             |
 | ---------- | -------------------- | ---------------------------------------------------------------- |
+| 2024-04-02 | Monty Python -- Enough         | [Link](./2024-04-02_Monty Python -- Enough "Monty Python -- Enough") |
 | 2024-04-01 | Just Alerting You              | [Link](./2024-04-01_Just Alerting You "Just Alerting You") |
 | 2024-03-31 | Copyright                      | [Link](./2024-03-31_Copyright "Copyright") |
 | 2024-03-30 | Canyon                         | [Link](./2024-03-30_Canyon "Canyon") |
