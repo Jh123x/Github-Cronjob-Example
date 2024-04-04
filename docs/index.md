@@ -6,6 +6,7 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 
 | Date       | Title                | Link                                                             |
 | ---------- | -------------------- | ---------------------------------------------------------------- |
+| 2024-04-04 | Snapple                        | [Link](./2024-04-04_Snapple "Snapple") |
 | 2024-04-03 | What If                        | [Link](./2024-04-03_What If "What If") |
 | 2024-04-02 | Monty Python -- Enough         | [Link](./2024-04-02_Monty Python -- Enough "Monty Python -- Enough") |
 | 2024-04-01 | Just Alerting You              | [Link](./2024-04-01_Just Alerting You "Just Alerting You") |
