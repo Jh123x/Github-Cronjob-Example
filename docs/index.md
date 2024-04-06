@@ -6,6 +6,7 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 
 | Date       | Title                | Link                                                             |
 | ---------- | -------------------- | ---------------------------------------------------------------- |
+| 2024-04-06 | Ferret                         | [Link](./2024-04-06_Ferret "Ferret") |
 | 2024-04-05 | George Clinton                 | [Link](./2024-04-05_George Clinton "George Clinton") |
 | 2024-04-04 | Snapple                        | [Link](./2024-04-04_Snapple "Snapple") |
 | 2024-04-03 | What If                        | [Link](./2024-04-03_What If "What If") |
