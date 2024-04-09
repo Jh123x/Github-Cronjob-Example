@@ -6,6 +6,7 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 
 | Date       | Title                | Link                                                             |
 | ---------- | -------------------- | ---------------------------------------------------------------- |
+| 2024-04-09 | T-shirts                       | [Link](./2024-04-09_T-shirts "T-shirts") |
 | 2024-04-08 | Barrel - Part 3                | [Link](./2024-04-08_Barrel - Part 3 "Barrel - Part 3") |
 | 2024-04-07 | Kepler                         | [Link](./2024-04-07_Kepler "Kepler") |
 | 2024-04-06 | Ferret                         | [Link](./2024-04-06_Ferret "Ferret") |
