@@ -6,6 +6,7 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 
 | Date       | Title                | Link                                                             |
 | ---------- | -------------------- | ---------------------------------------------------------------- |
+| 2024-04-14 | Elefino                        | [Link](./2024-04-14_Elefino "Elefino") |
 | 2024-04-13 | Meat Cereals                   | [Link](./2024-04-13_Meat Cereals "Meat Cereals") |
 | 2024-04-12 | Fourier                        | [Link](./2024-04-12_Fourier "Fourier") |
 | 2024-04-11 | Barrel - Part 4                | [Link](./2024-04-11_Barrel - Part 4 "Barrel - Part 4") |
