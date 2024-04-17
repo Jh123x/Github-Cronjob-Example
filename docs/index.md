@@ -6,6 +6,7 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 
 | Date       | Title                | Link                                                             |
 | ---------- | -------------------- | ---------------------------------------------------------------- |
+| 2024-04-17 | Barrel - Part 5                | [Link](./2024-04-17_Barrel - Part 5 "Barrel - Part 5") |
 | 2024-04-16 | Donner                         | [Link](./2024-04-16_Donner "Donner") |
 | 2024-04-15 | Hitler                         | [Link](./2024-04-15_Hitler "Hitler") |
 | 2024-04-14 | Elefino                        | [Link](./2024-04-14_Elefino "Elefino") |
