@@ -6,6 +6,7 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 
 | Date       | Title                | Link                                                             |
 | ---------- | -------------------- | ---------------------------------------------------------------- |
+| 2024-04-19 | Self-reference                 | [Link](./2024-04-19_Self-reference "Self-reference") |
 | 2024-04-18 | Pillar                         | [Link](./2024-04-18_Pillar "Pillar") |
 | 2024-04-17 | Barrel - Part 5                | [Link](./2024-04-17_Barrel - Part 5 "Barrel - Part 5") |
 | 2024-04-16 | Donner                         | [Link](./2024-04-16_Donner "Donner") |
