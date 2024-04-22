@@ -6,6 +6,7 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 
 | Date       | Title                | Link                                                             |
 | ---------- | -------------------- | ---------------------------------------------------------------- |
+| 2024-04-22 | Scientists                     | [Link](./2024-04-22_Scientists "Scientists") |
 | 2024-04-21 | Sheep                          | [Link](./2024-04-21_Sheep "Sheep") |
 | 2024-04-20 | Flowers                        | [Link](./2024-04-20_Flowers "Flowers") |
 | 2024-04-19 | Self-reference                 | [Link](./2024-04-19_Self-reference "Self-reference") |
