@@ -6,6 +6,7 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 
 | Date       | Title                | Link                                                             |
 | ---------- | -------------------- | ---------------------------------------------------------------- |
+| 2024-04-25 | Bowl                           | [Link](./2024-04-25_Bowl "Bowl") |
 | 2024-04-24 | Apple Jacks                    | [Link](./2024-04-24_Apple Jacks "Apple Jacks") |
 | 2024-04-23 | Hyphen                         | [Link](./2024-04-23_Hyphen "Hyphen") |
 | 2024-04-22 | Scientists                     | [Link](./2024-04-22_Scientists "Scientists") |
