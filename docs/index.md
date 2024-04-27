@@ -6,6 +6,7 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 
 | Date       | Title                | Link                                                             |
 | ---------- | -------------------- | ---------------------------------------------------------------- |
+| 2024-04-27 | Old Drawing                    | [Link](./2024-04-27_Old Drawing "Old Drawing") |
 | 2024-04-26 | Light                          | [Link](./2024-04-26_Light "Light") |
 | 2024-04-25 | Bowl                           | [Link](./2024-04-25_Bowl "Bowl") |
 | 2024-04-24 | Apple Jacks                    | [Link](./2024-04-24_Apple Jacks "Apple Jacks") |
