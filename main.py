@@ -3,12 +3,12 @@ import datetime     # To get the current date
 import logging      # To log our flow
 import os           # File operations
 
+from urllib.parse import quote
 from typing import Dict
 
 
 MD_DIR = "docs"
 CONTENT_DIR = os.path.join(MD_DIR, "index.md")
-
 DATE_FORMAT = "%Y-%m-%d"
 TITLE_FORMAT = "{date}_{title}.md"
 DATA_URL = "https://xkcd.com/{page_no}/info.0.json"
@@ -21,29 +21,23 @@ MARKDOWN_FORMAT = """
 
 [Visit the original page](https://xkcd.com/{num}/)
 """
-CONTENT_PAGE_SPLIT = "| ---------- | -------------------- | ---------------------------------------------------------------- |"
+CONTENT_PAGE_SPLIT = f"| {'-'*10} | {'-'*50} | {'-'*142} |"
 
 
-def generate_file_name(title: str) -> str:
+def generate_file_name(title: str, date: str) -> str:
     """Generate the file name for the markdown file to be written"""
-    date = datetime.datetime.now().strftime(DATE_FORMAT)
     return TITLE_FORMAT.format(date=date, title=title)
 
 
-def generate_markdown(title: str, img_url: str, alt: str, num: int) -> str:
+def generate_markdown(title: str, img_url: str, alt: str, num: int, date: str) -> str:
     """Generate the markdown content"""
-    return MARKDOWN_FORMAT.format(
-        date=datetime.datetime.now().strftime(DATE_FORMAT),
-        title=title,
-        img_url=img_url,
-        alt=alt,
-        num=num
-    )
+    return MARKDOWN_FORMAT.format(date=date, title=title, img_url=img_url, alt=alt, num=num)
 
 
 def generate_content_line(title: str, date: str, url_path: str) -> str:
     """Generate the content line for the content page"""
-    return f"| {date:10} | {title:30} | [Link](./{url_path} \"{title}\") |"
+    link_format = f"[Link](./{quote(url_path)} \"{title}\")"
+    return f"| {date:10} | {title:50} | {link_format:142} |"
 
 
 def insert_to_content_page(title: str, date: str, file_name: str):
@@ -69,19 +63,21 @@ if __name__ == '__main__':
     # Setup logging
     logging.basicConfig(level=logging.INFO)
     logger = logging.getLogger(__name__)
-
     current_time = datetime.datetime.now()
-    day_since_creation = current_time - datetime.datetime(2024, 3, 17)
+    project_start_date = datetime.datetime(2024, 3, 17)
+    day_since_creation = current_time - project_start_date
 
     # Call the api
     with requests.Session() as session:
-        response = session.get(
-            DATA_URL.format(page_no=day_since_creation.days),
-        )
+        response = session.get(DATA_URL.format(day_since_creation.days))
+
         if response.status_code >= 400:
             logger.critical(
-                f"Failed to get the data from the API. Status code: {response.status_code}")
+                f"Failed to get the data from the API. Status code: {
+                    response.status_code}"
+            )
             exit(1)
+
         data: Dict[str, str] = response.json()
 
     # Extract information
@@ -91,13 +87,13 @@ if __name__ == '__main__':
     num = data.get("num", "1")
 
     # Create the file
-    file_name = generate_file_name(title)
+    date_str = current_time.strftime(DATE_FORMAT)
+    file_name = generate_file_name(title, date_str)
+
     with open(os.path.join(MD_DIR, file_name), "w") as file:
-        file.write(generate_markdown(title, img_url, alt, int(num)))
+        file.write(
+            generate_markdown(title, img_url, alt, int(num), date_str),
+        )
 
     # Update the content page
-    insert_to_content_page(
-        title,
-        current_time.strftime(DATE_FORMAT),
-        file_name.strip(".md"),
-    )
+    insert_to_content_page(title, date_str, file_name.strip(".md"))
