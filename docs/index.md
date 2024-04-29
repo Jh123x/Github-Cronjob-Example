@@ -6,6 +6,7 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 
 | Date       | Title                | Link                                                             |
 | ---------- | -------------------- | ---------------------------------------------------------------- |
+| 2024-04-29 | Red Spiders 2                  | [Link](./2024-04-29_Red Spiders 2 "Red Spiders 2") |
 | 2024-04-28 | Geico                          | [Link](./2024-04-28_Geico "Geico") |
 | 2024-04-27 | Old Drawing                    | [Link](./2024-04-27_Old Drawing "Old Drawing") |
 | 2024-04-26 | Light                          | [Link](./2024-04-26_Light "Light") |
