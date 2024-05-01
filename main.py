@@ -72,10 +72,7 @@ if __name__ == '__main__':
         response = session.get(DATA_URL.format(day_since_creation.days))
 
         if response.status_code >= 400:
-            logger.critical(
-                f"Failed to get the data from the API. Status code: {
-                    response.status_code}"
-            )
+            logger.critical(f"Failed to get the data from the API. Status code: {response.status_code}")
             exit(1)
 
         data: Dict[str, str] = response.json()
