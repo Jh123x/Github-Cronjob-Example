@@ -69,7 +69,9 @@ if __name__ == '__main__':
 
     # Call the api
     with requests.Session() as session:
-        response = session.get(DATA_URL.format(day_since_creation.days))
+        response = session.get(
+            DATA_URL.format(page_no=day_since_creation.days),
+        )
 
         if response.status_code >= 400:
             logger.critical(f"Failed to get the data from the API. Status code: {response.status_code}")
