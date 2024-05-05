@@ -6,6 +6,7 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 
 | Date       | Title                                              | Link                                                                                                                                           |
 | ---------- | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2024-05-05 | Want                                               | [Link](./2024-05-05_Want "Want")                                                                                                               |
 | 2024-05-04 | Found                                              | [Link](./2024-05-04_Foun "Found")                                                                                                              |
 | 2024-05-03 | Counter-Red Spiders                                | [Link](./2024-05-03_Counter-Red%20Spiders "Counter-Red Spiders")                                                                               |
 | 2024-05-02 | Secrets                                            | [Link](./2024-05-02_Secrets "Secrets")                                                                                                         |
