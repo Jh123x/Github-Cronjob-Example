@@ -6,6 +6,7 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 
 | Date       | Title                                              | Link                                                                                                                                           |
 | ---------- | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2024-05-07 | Malaria                                            | [Link](./2024-05-07_Malaria "Malaria")                                                                                                         |
 | 2024-05-06 | Penny Arcade                                       | [Link](./2024-05-06_Penny%20Arcade "Penny Arcade")                                                                                             |
 | 2024-05-04 | Found                                              | [Link](./2024-05-04_Found "Found")                                                                                                             |
 | 2024-05-03 | Counter-Red Spiders                                | [Link](./2024-05-03_Counter-Red%20Spiders "Counter-Red Spiders")                                                                               |
