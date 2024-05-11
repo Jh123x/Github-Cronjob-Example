@@ -6,6 +6,7 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 
 | Date       | Title                                              | Link                                                                                                                                           |
 | ---------- | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2024-05-11 | Useless                                            | [Link](./2024-05-11_Useless "Useless")                                                                                                         |
 | 2024-05-10 | Science                                            | [Link](./2024-05-10_Science "Science")                                                                                                         |
 | 2024-05-09 | Hobby                                              | [Link](./2024-05-09_Hobby "Hobby")                                                                                                             |
 | 2024-05-08 | Secret Worlds                                      | [Link](./2024-05-08_Secret%20Worlds "Secret Worlds")                                                                                           |
