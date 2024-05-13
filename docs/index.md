@@ -6,6 +6,7 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 
 | Date       | Title                                              | Link                                                                                                                                           |
 | ---------- | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2024-05-13 | Wait For Me                                        | [Link](./2024-05-13_Wait%20For%20Me "Wait For Me")                                                                                             |
 | 2024-05-12 | The Cure                                           | [Link](./2024-05-12_The%20Cure "The Cure")                                                                                                     |
 | 2024-05-11 | Useless                                            | [Link](./2024-05-11_Useless "Useless")                                                                                                         |
 | 2024-05-10 | Science                                            | [Link](./2024-05-10_Science "Science")                                                                                                         |
