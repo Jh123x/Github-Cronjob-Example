@@ -6,6 +6,7 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 
 | Date       | Title                                              | Link                                                                                                                                           |
 | ---------- | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2024-05-15 | Graduation                                         | [Link](./2024-05-15_Graduation "Graduation")                                                                                                   |
 | 2024-05-14 | Why Do You Love Me?                                | [Link](./2024-05-14_Why%20Do%20You%20Love%20Me%3F "Why Do You Love Me?")                                                                       |
 | 2024-05-13 | Wait For Me                                        | [Link](./2024-05-13_Wait%20For%20Me "Wait For Me")                                                                                             |
 | 2024-05-12 | The Cure                                           | [Link](./2024-05-12_The%20Cure "The Cure")                                                                                                     |
