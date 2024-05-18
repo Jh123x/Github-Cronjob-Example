@@ -6,6 +6,7 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 
 | Date       | Title                                              | Link                                                                                                                                           |
 | ---------- | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2024-05-18 | Valentine - Karnaugh                               | [Link](./2024-05-18_Valentine%20-%20Karnaugh "Valentine - Karnaugh")                                                                           |
 | 2024-05-17 | Stacey's Dad                                       | [Link](./2024-05-17_Stacey%27s%20Da "Stacey's Dad")                                                                                            |
 | 2024-05-16 | Super Bowl                                         | [Link](./2024-05-16_Super%20Bowl "Super Bowl")                                                                                                 |
 | 2024-05-15 | Graduation                                         | [Link](./2024-05-15_Graduation "Graduation")                                                                                                   |
