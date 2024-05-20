@@ -6,6 +6,7 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 
 | Date       | Title                                              | Link                                                                                                                                           |
 | ---------- | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2024-05-20 | Solar Plexus                                       | [Link](./2024-05-20_Solar%20Plexus "Solar Plexus")                                                                                             |
 | 2024-05-19 | Valentine - Heart                                  | [Link](./2024-05-19_Valentine%20-%20Heart "Valentine - Heart")                                                                                 |
 | 2024-05-18 | Valentine - Karnaugh                               | [Link](./2024-05-18_Valentine%20-%20Karnaugh "Valentine - Karnaugh")                                                                           |
 | 2024-05-17 | Stacey's Dad                                       | [Link](./2024-05-17_Stacey%27s%20Da "Stacey's Dad")                                                                                            |
