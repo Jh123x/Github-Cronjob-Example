@@ -6,6 +6,7 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 
 | Date       | Title                                              | Link                                                                                                                                           |
 | ---------- | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2024-05-22 | Abusive Astronomy                                  | [Link](./2024-05-22_Abusive%20Astronomy "Abusive Astronomy")                                                                                   |
 | 2024-05-21 | Banter                                             | [Link](./2024-05-21_Banter "Banter")                                                                                                           |
 | 2024-05-20 | Solar Plexus                                       | [Link](./2024-05-20_Solar%20Plexus "Solar Plexus")                                                                                             |
 | 2024-05-19 | Valentine - Heart                                  | [Link](./2024-05-19_Valentine%20-%20Heart "Valentine - Heart")                                                                                 |
