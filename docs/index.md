@@ -6,6 +6,7 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 
 | Date       | Title                                              | Link                                                                                                                                           |
 | ---------- | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2024-05-25 | Pillow Talk                                        | [Link](./2024-05-25_Pillow%20Talk "Pillow Talk")                                                                                               |
 | 2024-05-24 | Five Thirty                                        | [Link](./2024-05-24_Five%20Thirty "Five Thirty")                                                                                               |
 | 2024-05-23 | Nerd Girls                                         | [Link](./2024-05-23_Nerd%20Girls "Nerd Girls")                                                                                                 |
 | 2024-05-22 | Abusive Astronomy                                  | [Link](./2024-05-22_Abusive%20Astronomy "Abusive Astronomy")                                                                                   |
