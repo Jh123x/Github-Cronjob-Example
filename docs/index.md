@@ -6,6 +6,7 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 
 | Date       | Title                                              | Link                                                                                                                                           |
 | ---------- | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2024-05-29 | Zeppelin                                           | [Link](./2024-05-29_Zeppelin "Zeppelin")                                                                                                       |
 | 2024-05-28 | Classhole                                          | [Link](./2024-05-28_Classhole "Classhole")                                                                                                     |
 | 2024-05-27 | In the Trees                                       | [Link](./2024-05-27_In%20the%20Trees "In the Trees")                                                                                           |
 | 2024-05-26 | Guitar Hero                                        | [Link](./2024-05-26_Guitar%20Hero "Guitar Hero")                                                                                               |
