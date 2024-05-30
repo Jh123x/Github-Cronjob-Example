@@ -6,6 +6,7 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 
 | Date       | Title                                              | Link                                                                                                                                           |
 | ---------- | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2024-05-30 | Su Doku                                            | [Link](./2024-05-30_Su%20Doku "Su Doku")                                                                                                       |
 | 2024-05-29 | Zeppelin                                           | [Link](./2024-05-29_Zeppelin "Zeppelin")                                                                                                       |
 | 2024-05-28 | Classhole                                          | [Link](./2024-05-28_Classhole "Classhole")                                                                                                     |
 | 2024-05-27 | In the Trees                                       | [Link](./2024-05-27_In%20the%20Trees "In the Trees")                                                                                           |
