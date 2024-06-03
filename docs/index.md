@@ -6,6 +6,7 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 
 | Date       | Title                                              | Link                                                                                                                                           |
 | ---------- | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2024-06-03 | Garfield                                           | [Link](./2024-06-03_Garfiel "Garfield")                                                                                                        |
 | 2024-06-02 | Bored with the Internet                            | [Link](./2024-06-02_Bored%20with%20the%20Internet "Bored with the Internet")                                                                   |
 | 2024-06-01 | Familiar                                           | [Link](./2024-06-01_Familiar "Familiar")                                                                                                       |
 | 2024-05-31 | Curse Levels                                       | [Link](./2024-05-31_Curse%20Levels "Curse Levels")                                                                                             |
