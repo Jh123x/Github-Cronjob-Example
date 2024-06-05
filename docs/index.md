@@ -6,6 +6,7 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 
 | Date       | Title                                              | Link                                                                                                                                           |
 | ---------- | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2024-06-05 | My Other Car                                       | [Link](./2024-06-05_My%20Other%20Car "My Other Car")                                                                                           |
 | 2024-06-04 | Iambic Pentameter                                  | [Link](./2024-06-04_Iambic%20Pentameter "Iambic Pentameter")                                                                                   |
 | 2024-06-03 | Garfield                                           | [Link](./2024-06-03_Garfiel "Garfield")                                                                                                        |
 | 2024-06-02 | Bored with the Internet                            | [Link](./2024-06-02_Bored%20with%20the%20Internet "Bored with the Internet")                                                                   |
