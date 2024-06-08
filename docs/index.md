@@ -6,6 +6,7 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 
 | Date       | Title                                              | Link                                                                                                                                           |
 | ---------- | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2024-06-08 | Katamari                                           | [Link](./2024-06-08_Katamari "Katamari")                                                                                                       |
 | 2024-06-07 | Frame                                              | [Link](./2024-06-07_Frame "Frame")                                                                                                             |
 | 2024-06-06 | Attention, shopper                                 | [Link](./2024-06-06_Attention%2C%20shopper "Attention, shopper")                                                                               |
 | 2024-06-05 | My Other Car                                       | [Link](./2024-06-05_My%20Other%20Car "My Other Car")                                                                                           |
