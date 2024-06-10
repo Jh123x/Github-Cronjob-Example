@@ -6,6 +6,7 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 
 | Date       | Title                                              | Link                                                                                                                                           |
 | ---------- | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2024-06-10 | Paths                                              | [Link](./2024-06-10_Paths "Paths")                                                                                                             |
 | 2024-06-09 | National Language                                  | [Link](./2024-06-09_National%20Language "National Language")                                                                                   |
 | 2024-06-08 | Katamari                                           | [Link](./2024-06-08_Katamari "Katamari")                                                                                                       |
 | 2024-06-07 | Frame                                              | [Link](./2024-06-07_Frame "Frame")                                                                                                             |
