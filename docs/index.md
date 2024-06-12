@@ -6,6 +6,7 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 
 | Date       | Title                                              | Link                                                                                                                                           |
 | ---------- | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2024-06-12 | Velociraptors                                      | [Link](./2024-06-12_Velociraptors "Velociraptors")                                                                                             |
 | 2024-06-11 | Digital Rights Management                          | [Link](./2024-06-11_Digital%20Rights%20Management "Digital Rights Management")                                                                 |
 | 2024-06-10 | Paths                                              | [Link](./2024-06-10_Paths "Paths")                                                                                                             |
 | 2024-06-09 | National Language                                  | [Link](./2024-06-09_National%20Language "National Language")                                                                                   |
