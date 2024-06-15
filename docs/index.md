@@ -6,6 +6,7 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 
 | Date       | Title                                              | Link                                                                                                                                           |
 | ---------- | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2024-06-15 | Jacket                                             | [Link](./2024-06-15_Jacket "Jacket")                                                                                                           |
 | 2024-06-14 | Gravitational Mass                                 | [Link](./2024-06-14_Gravitational%20Mass "Gravitational Mass")                                                                                 |
 | 2024-06-13 | Escher Bracelet                                    | [Link](./2024-06-13_Escher%20Bracelet "Escher Bracelet")                                                                                       |
 | 2024-06-12 | Velociraptors                                      | [Link](./2024-06-12_Velociraptors "Velociraptors")                                                                                             |
