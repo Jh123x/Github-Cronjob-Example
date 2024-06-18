@@ -6,6 +6,7 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 
 | Date       | Title                                              | Link                                                                                                                                           |
 | ---------- | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2024-06-18 | Jeremy Irons                                       | [Link](./2024-06-18_Jeremy%20Irons "Jeremy Irons")                                                                                             |
 | 2024-06-17 | Sunrise                                            | [Link](./2024-06-17_Sunrise "Sunrise")                                                                                                         |
 | 2024-06-16 | Pwned                                              | [Link](./2024-06-16_Pwne "Pwned")                                                                                                              |
 | 2024-06-15 | Jacket                                             | [Link](./2024-06-15_Jacket "Jacket")                                                                                                           |
