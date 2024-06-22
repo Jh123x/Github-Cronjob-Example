@@ -6,6 +6,7 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 
 | Date       | Title                                              | Link                                                                                                                                           |
 | ---------- | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2024-06-22 | A Simple Plan                                      | [Link](./2024-06-22_A%20Simple%20Plan "A Simple Plan")                                                                                         |
 | 2024-06-21 | Mail                                               | [Link](./2024-06-21_Mail "Mail")                                                                                                               |
 | 2024-06-20 | The Sierpinski Penis Game                          | [Link](./2024-06-20_The%20Sierpinski%20Penis%20Game "The Sierpinski Penis Game")                                                               |
 | 2024-06-19 | Profile Creation Flowchart                         | [Link](./2024-06-19_Profile%20Creation%20Flowchart "Profile Creation Flowchart")                                                               |
