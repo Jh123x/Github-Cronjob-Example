@@ -6,6 +6,7 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 
 | Date       | Title                                              | Link                                                                                                                                           |
 | ---------- | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2024-06-25 | Family Circus                                      | [Link](./2024-06-25_Family%20Circus "Family Circus")                                                                                           |
 | 2024-06-24 | Binary Heart                                       | [Link](./2024-06-24_Binary%20Heart "Binary Heart")                                                                                             |
 | 2024-06-23 | Fall Apart                                         | [Link](./2024-06-23_Fall%20Apart "Fall Apart")                                                                                                 |
 | 2024-06-22 | A Simple Plan                                      | [Link](./2024-06-22_A%20Simple%20Plan "A Simple Plan")                                                                                         |
