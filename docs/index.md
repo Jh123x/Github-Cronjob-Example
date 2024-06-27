@@ -6,6 +6,7 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 
 | Date       | Title                                              | Link                                                                                                                                           |
 | ---------- | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2024-06-27 | Back to the Future                                 | [Link](./2024-06-27_Back%20to%20the%20Future "Back to the Future")                                                                             |
 | 2024-06-26 | Laser Scope                                        | [Link](./2024-06-26_Laser%20Scope "Laser Scope")                                                                                               |
 | 2024-06-25 | Family Circus                                      | [Link](./2024-06-25_Family%20Circus "Family Circus")                                                                                           |
 | 2024-06-24 | Binary Heart                                       | [Link](./2024-06-24_Binary%20Heart "Binary Heart")                                                                                             |
