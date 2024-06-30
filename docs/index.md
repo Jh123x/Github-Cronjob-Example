@@ -6,6 +6,7 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 
 | Date       | Title                                              | Link                                                                                                                                           |
 | ---------- | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2024-06-30 | Parallel Universe                                  | [Link](./2024-06-30_Parallel%20Universe "Parallel Universe")                                                                                   |
 | 2024-06-29 | Find You                                           | [Link](./2024-06-29_Find%20You "Find You")                                                                                                     |
 | 2024-06-28 | Moral Relativity                                   | [Link](./2024-06-28_Moral%20Relativity "Moral Relativity")                                                                                     |
 | 2024-06-27 | Back to the Future                                 | [Link](./2024-06-27_Back%20to%20the%20Future "Back to the Future")                                                                             |
