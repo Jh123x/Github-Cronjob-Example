@@ -6,6 +6,7 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 
 | Date       | Title                                              | Link                                                                                                                                           |
 | ---------- | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2024-07-04 | Spoiler Alert                                      | [Link](./2024-07-04_Spoiler%20Alert "Spoiler Alert")                                                                                           |
 | 2024-07-03 | M.C. Hammer Slide                                  | [Link](./2024-07-03_M.C.%20Hammer%20Slide "M.C. Hammer Slide")                                                                                 |
 | 2024-07-02 | Snakes on a Plane! 2                               | [Link](./2024-07-02_Snakes%20on%20a%20Plane%21%202 "Snakes on a Plane! 2")                                                                     |
 | 2024-07-01 | Wright Brothers                                    | [Link](./2024-07-01_Wright%20Brothers "Wright Brothers")                                                                                       |
