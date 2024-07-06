@@ -6,6 +6,7 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 
 | Date       | Title                                              | Link                                                                                                                                           |
 | ---------- | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2024-07-06 | Firefox and Witchcraft - The Connection?           | [Link](./2024-07-06_Firefox%20and%20Witchcraft%20-%20The%20Connection%3F "Firefox and Witchcraft - The Connection?")                           |
 | 2024-07-05 | Clark Gable                                        | [Link](./2024-07-05_Clark%20Gable "Clark Gable")                                                                                               |
 | 2024-07-04 | Spoiler Alert                                      | [Link](./2024-07-04_Spoiler%20Alert "Spoiler Alert")                                                                                           |
 | 2024-07-03 | M.C. Hammer Slide                                  | [Link](./2024-07-03_M.C.%20Hammer%20Slide "M.C. Hammer Slide")                                                                                 |
