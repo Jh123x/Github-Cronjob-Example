@@ -6,6 +6,7 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 
 | Date       | Title                                              | Link                                                                                                                                           |
 | ---------- | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2024-07-09 | Computational Linguists                            | [Link](./2024-07-09_Computational%20Linguists "Computational Linguists")                                                                       |
 | 2024-07-08 | Riemann-Zeta                                       | [Link](./2024-07-08_Riemann-Zeta "Riemann-Zeta")                                                                                               |
 | 2024-07-07 | Baring My Heart                                    | [Link](./2024-07-07_Baring%20My%20Heart "Baring My Heart")                                                                                     |
 | 2024-07-06 | Firefox and Witchcraft - The Connection?           | [Link](./2024-07-06_Firefox%20and%20Witchcraft%20-%20The%20Connection%3F "Firefox and Witchcraft - The Connection?")                           |
