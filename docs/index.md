@@ -6,6 +6,7 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 
 | Date       | Title                                              | Link                                                                                                                                           |
 | ---------- | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2024-07-12 | Pong                                               | [Link](./2024-07-12_Pong "Pong")                                                                                                               |
 | 2024-07-11 | City                                               | [Link](./2024-07-11_City "City")                                                                                                               |
 | 2024-07-10 | Meerkat                                            | [Link](./2024-07-10_Meerkat "Meerkat")                                                                                                         |
 | 2024-07-09 | Computational Linguists                            | [Link](./2024-07-09_Computational%20Linguists "Computational Linguists")                                                                       |
