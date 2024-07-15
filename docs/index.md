@@ -6,6 +6,7 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 
 | Date       | Title                                              | Link                                                                                                                                           |
 | ---------- | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2024-07-15 | Dating Service                                     | [Link](./2024-07-15_Dating%20Service "Dating Service")                                                                                         |
 | 2024-07-14 | Worst Band Name Ever                               | [Link](./2024-07-14_Worst%20Band%20Name%20Ever "Worst Band Name Ever")                                                                         |
 | 2024-07-13 | 50 Ways                                            | [Link](./2024-07-13_50%20Ways "50 Ways")                                                                                                       |
 | 2024-07-12 | Pong                                               | [Link](./2024-07-12_Pong "Pong")                                                                                                               |
