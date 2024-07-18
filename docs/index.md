@@ -6,6 +6,7 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 
 | Date       | Title                                              | Link                                                                                                                                           |
 | ---------- | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2024-07-18 | Centrifugal Force                                  | [Link](./2024-07-18_Centrifugal%20Force "Centrifugal Force")                                                                                   |
 | 2024-07-17 | Quirky Girls                                       | [Link](./2024-07-17_Quirky%20Girls "Quirky Girls")                                                                                             |
 | 2024-07-16 | Balloon                                            | [Link](./2024-07-16_Balloon "Balloon")                                                                                                         |
 | 2024-07-15 | Dating Service                                     | [Link](./2024-07-15_Dating%20Service "Dating Service")                                                                                         |
