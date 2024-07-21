@@ -6,6 +6,7 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 
 | Date       | Title                                              | Link                                                                                                                                           |
 | ---------- | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2024-07-21 | Red Spiders Cometh                                 | [Link](./2024-07-21_Red%20Spiders%20Cometh "Red Spiders Cometh")                                                                               |
 | 2024-07-20 | Marketing Interview                                | [Link](./2024-07-20_Marketing%20Interview "Marketing Interview")                                                                               |
 | 2024-07-19 | Blogofractal                                       | [Link](./2024-07-19_Blogofractal "Blogofractal")                                                                                               |
 | 2024-07-18 | Centrifugal Force                                  | [Link](./2024-07-18_Centrifugal%20Force "Centrifugal Force")                                                                                   |
