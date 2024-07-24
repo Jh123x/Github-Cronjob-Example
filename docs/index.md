@@ -6,6 +6,7 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 
 | Date       | Title                                              | Link                                                                                                                                           |
 | ---------- | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2024-07-24 | Content Protection                                 | [Link](./2024-07-24_Content%20Protection "Content Protection")                                                                                 |
 | 2024-07-23 | dPain over dt                                      | [Link](./2024-07-23_dPain%20over%20dt "dPain over dt")                                                                                         |
 | 2024-07-22 | The Fast and the Furious                           | [Link](./2024-07-22_The%20Fast%20and%20the%20Furious "The Fast and the Furious")                                                               |
 | 2024-07-21 | Red Spiders Cometh                                 | [Link](./2024-07-21_Red%20Spiders%20Cometh "Red Spiders Cometh")                                                                               |
