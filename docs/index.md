@@ -6,6 +6,7 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 
 | Date       | Title                                              | Link                                                                                                                                           |
 | ---------- | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2024-07-26 | Fans                                               | [Link](./2024-07-26_Fans "Fans")                                                                                                               |
 | 2024-07-25 | Julia Stiles                                       | [Link](./2024-07-25_Julia%20Stiles "Julia Stiles")                                                                                             |
 | 2024-07-24 | Content Protection                                 | [Link](./2024-07-24_Content%20Protection "Content Protection")                                                                                 |
 | 2024-07-23 | dPain over dt                                      | [Link](./2024-07-23_dPain%20over%20dt "dPain over dt")                                                                                         |
