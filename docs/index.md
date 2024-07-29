@@ -6,6 +6,7 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 
 | Date       | Title                                              | Link                                                                                                                                           |
 | ---------- | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2024-07-29 | Myspace                                            | [Link](./2024-07-29_Myspace "Myspace")                                                                                                         |
 | 2024-07-28 | The Raven                                          | [Link](./2024-07-28_The%20Raven "The Raven")                                                                                                   |
 | 2024-07-27 | Music Knowledge                                    | [Link](./2024-07-27_Music%20Knowledge "Music Knowledge")                                                                                       |
 | 2024-07-26 | Fans                                               | [Link](./2024-07-26_Fans "Fans")                                                                                                               |
