@@ -6,6 +6,7 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 
 | Date       | Title                                              | Link                                                                                                                                           |
 | ---------- | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2024-07-31 | Science Fair                                       | [Link](./2024-07-31_Science%20Fair "Science Fair")                                                                                             |
 | 2024-07-30 | Substitute                                         | [Link](./2024-07-30_Substitute "Substitute")                                                                                                   |
 | 2024-07-29 | Myspace                                            | [Link](./2024-07-29_Myspace "Myspace")                                                                                                         |
 | 2024-07-28 | The Raven                                          | [Link](./2024-07-28_The%20Raven "The Raven")                                                                                                   |
