@@ -6,6 +6,7 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 
 | Date       | Title                                              | Link                                                                                                                                           |
 | ---------- | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2024-08-01 | Dreams                                             | [Link](./2024-08-01_Dreams "Dreams")                                                                                                           |
 | 2024-07-31 | Science Fair                                       | [Link](./2024-07-31_Science%20Fair "Science Fair")                                                                                             |
 | 2024-07-30 | Substitute                                         | [Link](./2024-07-30_Substitute "Substitute")                                                                                                   |
 | 2024-07-29 | Myspace                                            | [Link](./2024-07-29_Myspace "Myspace")                                                                                                         |
