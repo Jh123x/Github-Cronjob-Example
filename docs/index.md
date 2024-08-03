@@ -6,6 +6,7 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 
 | Date       | Title                                              | Link                                                                                                                                           |
 | ---------- | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2024-08-03 | I Have Owned Two Electric Skateboards              | [Link](./2024-08-03_I%20Have%20Owned%20Two%20Electric%20Skateboards "I Have Owned Two Electric Skateboards")                                   |
 | 2024-08-02 | Pointers                                           | [Link](./2024-08-02_Pointers "Pointers")                                                                                                       |
 | 2024-08-01 | Dreams                                             | [Link](./2024-08-01_Dreams "Dreams")                                                                                                           |
 | 2024-07-31 | Science Fair                                       | [Link](./2024-07-31_Science%20Fair "Science Fair")                                                                                             |
