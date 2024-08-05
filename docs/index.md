@@ -6,6 +6,7 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 
 | Date       | Title                                              | Link                                                                                                                                           |
 | ---------- | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2024-08-05 | Parody Week: Achewood                              | [Link](./2024-08-05_Parody%20Week%3A%20Achewoo "Parody Week: Achewood")                                                                        |
 | 2024-08-04 | Delicious                                          | [Link](./2024-08-04_Delicious "Delicious")                                                                                                     |
 | 2024-08-03 | I Have Owned Two Electric Skateboards              | [Link](./2024-08-03_I%20Have%20Owned%20Two%20Electric%20Skateboards "I Have Owned Two Electric Skateboards")                                   |
 | 2024-08-02 | Pointers                                           | [Link](./2024-08-02_Pointers "Pointers")                                                                                                       |
