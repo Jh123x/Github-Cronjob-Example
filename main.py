@@ -2,6 +2,7 @@ import requests     # To get the data from the API
 import datetime     # To get the current date
 import logging      # To log our flow
 import os           # File operations
+import re           # Clean non ascii
 
 from urllib.parse import quote
 from typing import Dict
@@ -24,9 +25,13 @@ MARKDOWN_FORMAT = """
 CONTENT_PAGE_SPLIT = f"| {'-'*10} | {'-'*50} | {'-'*142} |"
 
 
+def clean_title(title: str) -> str:
+    return re.sub(r'[^\x00-\x7f]',r'', title).replace(" ", "_")
+
+
 def generate_file_name(title: str, date: str) -> str:
     """Generate the file name for the markdown file to be written"""
-    return TITLE_FORMAT.format(date=date, title=title)
+    return TITLE_FORMAT.format(date=date, title=clean_title(title))
 
 
 def generate_markdown(title: str, img_url: str, alt: str, num: int, date: str) -> str:
@@ -67,32 +72,34 @@ if __name__ == '__main__':
     project_start_date = datetime.datetime(2024, 3, 17)
     day_since_creation = current_time - project_start_date
 
-    # Call the api
-    with requests.Session() as session:
-        response = session.get(
-            DATA_URL.format(page_no=day_since_creation.days),
-        )
+    for page_no in range(1, day_since_creation.days):
+        current_time = project_start_date + datetime.timedelta(days=page_no)
+        # Call the api
+        with requests.Session() as session:
+            response = session.get(
+                DATA_URL.format(page_no=page_no),
+            )
 
-        if response.status_code >= 400:
-            logger.critical(f"Failed to get the data from the API. Status code: {response.status_code}")
-            exit(1)
+            if response.status_code >= 400:
+                logger.critical(f"Failed to get the data from the API. Status code: {response.status_code}")
+                exit(1)
 
-        data: Dict[str, str] = response.json()
+            data: Dict[str, str] = response.json()
 
-    # Extract information
-    title = data.get("title", "No title")
-    img_url = data.get("img", "No image")
-    alt = data.get("alt", "No alt")
-    num = data.get("num", "1")
+        # Extract information
+        title = data.get("title", "No title")
+        img_url = data.get("img", "No image")
+        alt = data.get("alt", "No alt")
+        num = data.get("num", "1")
 
-    # Create the file
-    date_str = current_time.strftime(DATE_FORMAT)
-    file_name = generate_file_name(title, date_str)
+        # Create the file
+        date_str = current_time.strftime(DATE_FORMAT)
+        file_name = generate_file_name(title, date_str)
 
-    with open(os.path.join(MD_DIR, file_name), "w") as file:
-        file.write(
-            generate_markdown(title, img_url, alt, int(num), date_str),
-        )
+        with open(os.path.join(MD_DIR, file_name), "w") as file:
+            file.write(
+                generate_markdown(title, img_url, alt, int(num), date_str),
+            )
 
-    # Update the content page
-    insert_to_content_page(title, date_str, file_name.strip(".md"))
+        # Update the content page
+        insert_to_content_page(title, date_str, file_name.strip(".md"))
