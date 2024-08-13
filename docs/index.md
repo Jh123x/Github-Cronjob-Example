@@ -6,6 +6,7 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 
 | Date       | Title                                              | Link                                                                                                                                           |
 | ---------- | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2024-08-12 | Mispronouncing                                     | [Link](./2024-08-12_Mispronouncing "Mispronouncing")                                                                                           |
 | 2024-08-11 | A Way So Familiar                                  | [Link](./2024-08-11_A_Way_So_Familiar "A Way So Familiar")                                                                                     |
 | 2024-08-10 | Join Myspace                                       | [Link](./2024-08-10_Join_Myspace "Join Myspace")                                                                                               |
 | 2024-08-09 | Parody Week: Dinosaur Comics                       | [Link](./2024-08-09_Parody_Week%3A_Dinosaur_Comics "Parody Week: Dinosaur Comics")                                                             |
