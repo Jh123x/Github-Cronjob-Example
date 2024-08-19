@@ -6,6 +6,7 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 
 | Date       | Title                                              | Link                                                                                                                                           |
 | ---------- | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2024-08-18 | Beliefs                                            | [Link](./2024-08-18_Beliefs "Beliefs")                                                                                                         |
 | 2024-08-17 | Cryptography                                       | [Link](./2024-08-17_Cryptography "Cryptography")                                                                                               |
 | 2024-08-16 | Hamster Ball                                       | [Link](./2024-08-16_Hamster_Ball "Hamster Ball")                                                                                               |
 | 2024-08-15 | Mario                                              | [Link](./2024-08-15_Mario "Mario")                                                                                                             |
