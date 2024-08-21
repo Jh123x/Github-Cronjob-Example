@@ -6,6 +6,7 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 
 | Date       | Title                                              | Link                                                                                                                                           |
 | ---------- | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2024-08-20 | Commented                                          | [Link](./2024-08-20_Commente "Commented")                                                                                                      |
 | 2024-08-19 | Search History                                     | [Link](./2024-08-19_Search_History "Search History")                                                                                           |
 | 2024-08-18 | Beliefs                                            | [Link](./2024-08-18_Beliefs "Beliefs")                                                                                                         |
 | 2024-08-17 | Cryptography                                       | [Link](./2024-08-17_Cryptography "Cryptography")                                                                                               |
