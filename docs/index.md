@@ -6,6 +6,7 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 
 | Date       | Title                                              | Link                                                                                                                                           |
 | ---------- | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2024-08-22 | Six Months                                         | [Link](./2024-08-22_Six_Months "Six Months")                                                                                                   |
 | 2024-08-21 | Filler Art                                         | [Link](./2024-08-21_Filler_Art "Filler Art")                                                                                                   |
 | 2024-08-20 | Commented                                          | [Link](./2024-08-20_Commente "Commented")                                                                                                      |
 | 2024-08-19 | Search History                                     | [Link](./2024-08-19_Search_History "Search History")                                                                                           |
