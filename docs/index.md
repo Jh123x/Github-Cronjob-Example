@@ -6,6 +6,7 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 
 | Date       | Title                                              | Link                                                                                                                                           |
 | ---------- | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2024-08-27 | Donald Knuth                                       | [Link](./2024-08-27_Donald_Knuth "Donald Knuth")                                                                                               |
 | 2024-08-26 | Angular Momentum                                   | [Link](./2024-08-26_Angular_Momentu "Angular Momentum")                                                                                        |
 | 2024-08-25 | Accident                                           | [Link](./2024-08-25_Accident "Accident")                                                                                                       |
 | 2024-08-24 | Penny Arcade Parody                                | [Link](./2024-08-24_Penny_Arcade_Parody "Penny Arcade Parody")                                                                                 |
