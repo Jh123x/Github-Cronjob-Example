@@ -6,6 +6,7 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 
 | Date       | Title                                              | Link                                                                                                                                           |
 | ---------- | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2024-08-31 | Nihilism                                           | [Link](./2024-08-31_Nihilis "Nihilism")                                                                                                        |
 | 2024-08-30 | Misusing Slang                                     | [Link](./2024-08-30_Misusing_Slang "Misusing Slang")                                                                                           |
 | 2024-08-29 | Turn Signals                                       | [Link](./2024-08-29_Turn_Signals "Turn Signals")                                                                                               |
 | 2024-08-28 | Playing Devil's Advocate to Win                    | [Link](./2024-08-28_Playing_Devil%27s_Advocate_to_Win "Playing Devil's Advocate to Win")                                                       |
