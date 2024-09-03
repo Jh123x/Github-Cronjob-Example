@@ -6,6 +6,7 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 
 | Date       | Title                                              | Link                                                                                                                                           |
 | ---------- | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2024-09-02 | Words that End in GRY                              | [Link](./2024-09-02_Words_that_End_in_GRY "Words that End in GRY")                                                                             |
 | 2024-09-01 | Reverse Euphemisms                                 | [Link](./2024-09-01_Reverse_Euphemisms "Reverse Euphemisms")                                                                                   |
 | 2024-08-31 | Nihilism                                           | [Link](./2024-08-31_Nihilis "Nihilism")                                                                                                        |
 | 2024-08-30 | Misusing Slang                                     | [Link](./2024-08-30_Misusing_Slang "Misusing Slang")                                                                                           |
