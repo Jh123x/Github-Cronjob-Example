@@ -6,6 +6,7 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 
 | Date       | Title                                              | Link                                                                                                                                           |
 | ---------- | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2024-09-05 | Skateboarding is Not a Crime                       | [Link](./2024-09-05_Skateboarding_is_Not_a_Crime "Skateboarding is Not a Crime")                                                               |
 | 2024-09-04 | String Theory                                      | [Link](./2024-09-04_String_Theory "String Theory")                                                                                             |
 | 2024-09-03 | Turn Back                                          | [Link](./2024-09-03_Turn_Back "Turn Back")                                                                                                     |
 | 2024-09-02 | Words that End in GRY                              | [Link](./2024-09-02_Words_that_End_in_GRY "Words that End in GRY")                                                                             |
