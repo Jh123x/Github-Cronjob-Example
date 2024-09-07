@@ -6,6 +6,7 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 
 | Date       | Title                                              | Link                                                                                                                                           |
 | ---------- | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2024-09-06 | Movie Seating                                      | [Link](./2024-09-06_Movie_Seating "Movie Seating")                                                                                             |
 | 2024-09-05 | Skateboarding is Not a Crime                       | [Link](./2024-09-05_Skateboarding_is_Not_a_Crime "Skateboarding is Not a Crime")                                                               |
 | 2024-09-04 | String Theory                                      | [Link](./2024-09-04_String_Theory "String Theory")                                                                                             |
 | 2024-09-03 | Turn Back                                          | [Link](./2024-09-03_Turn_Back "Turn Back")                                                                                                     |
