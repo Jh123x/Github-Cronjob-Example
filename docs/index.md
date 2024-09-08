@@ -6,6 +6,7 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 
 | Date       | Title                                              | Link                                                                                                                                           |
 | ---------- | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2024-09-07 | That's What SHE Said                               | [Link](./2024-09-07_That%27s_What_SHE_Sai "That's What SHE Said")                                                                              |
 | 2024-09-06 | Movie Seating                                      | [Link](./2024-09-06_Movie_Seating "Movie Seating")                                                                                             |
 | 2024-09-05 | Skateboarding is Not a Crime                       | [Link](./2024-09-05_Skateboarding_is_Not_a_Crime "Skateboarding is Not a Crime")                                                               |
 | 2024-09-04 | String Theory                                      | [Link](./2024-09-04_String_Theory "String Theory")                                                                                             |
