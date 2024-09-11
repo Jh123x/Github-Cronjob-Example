@@ -6,6 +6,7 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 
 | Date       | Title                                              | Link                                                                                                                                           |
 | ---------- | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2024-09-10 | Alice and Bob                                      | [Link](./2024-09-10_Alice_and_Bob "Alice and Bob")                                                                                             |
 | 2024-09-09 | Before Sunrise                                     | [Link](./2024-09-09_Before_Sunrise "Before Sunrise")                                                                                           |
 | 2024-09-08 | Automatic Doors                                    | [Link](./2024-09-08_Automatic_Doors "Automatic Doors")                                                                                         |
 | 2024-09-07 | That's What SHE Said                               | [Link](./2024-09-07_That%27s_What_SHE_Sai "That's What SHE Said")                                                                              |
