@@ -6,6 +6,7 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 
 | Date       | Title                                              | Link                                                                                                                                           |
 | ---------- | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2024-09-11 | Not Really Into Pokemon                            | [Link](./2024-09-11_Not_Really_Into_Pokemon "Not Really Into Pokemon")                                                                         |
 | 2024-09-10 | Alice and Bob                                      | [Link](./2024-09-10_Alice_and_Bob "Alice and Bob")                                                                                             |
 | 2024-09-09 | Before Sunrise                                     | [Link](./2024-09-09_Before_Sunrise "Before Sunrise")                                                                                           |
 | 2024-09-08 | Automatic Doors                                    | [Link](./2024-09-08_Automatic_Doors "Automatic Doors")                                                                                         |
