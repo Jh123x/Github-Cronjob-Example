@@ -6,6 +6,7 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 
 | Date       | Title                                              | Link                                                                                                                                           |
 | ---------- | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2024-09-13 | Canada                                             | [Link](./2024-09-13_Canada "Canada")                                                                                                           |
 | 2024-09-12 | e to the pi times i                                | [Link](./2024-09-12_e_to_the_pi_times_i "e to the pi times i")                                                                                 |
 | 2024-09-11 | Not Really Into Pokemon                            | [Link](./2024-09-11_Not_Really_Into_Pokemon "Not Really Into Pokemon")                                                                         |
 | 2024-09-10 | Alice and Bob                                      | [Link](./2024-09-10_Alice_and_Bob "Alice and Bob")                                                                                             |
