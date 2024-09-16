@@ -6,6 +6,7 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 
 | Date       | Title                                              | Link                                                                                                                                           |
 | ---------- | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2024-09-15 | Nash                                               | [Link](./2024-09-15_Nash "Nash")                                                                                                               |
 | 2024-09-14 | Interblag                                          | [Link](./2024-09-14_Interblag "Interblag")                                                                                                     |
 | 2024-09-13 | Canada                                             | [Link](./2024-09-13_Canada "Canada")                                                                                                           |
 | 2024-09-12 | e to the pi times i                                | [Link](./2024-09-12_e_to_the_pi_times_i "e to the pi times i")                                                                                 |
