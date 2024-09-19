@@ -6,6 +6,7 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 
 | Date       | Title                                              | Link                                                                                                                                           |
 | ---------- | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2024-09-18 | Wikifriends                                        | [Link](./2024-09-18_Wikifriends "Wikifriends")                                                                                                 |
 | 2024-09-17 | Matrix Transform                                   | [Link](./2024-09-17_Matrix_Transfor "Matrix Transform")                                                                                        |
 | 2024-09-16 | Snacktime Rules                                    | [Link](./2024-09-16_Snacktime_Rules "Snacktime Rules")                                                                                         |
 | 2024-09-15 | Nash                                               | [Link](./2024-09-15_Nash "Nash")                                                                                                               |
