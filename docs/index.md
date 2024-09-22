@@ -6,6 +6,7 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 
 | Date       | Title                                              | Link                                                                                                                                           |
 | ---------- | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2024-09-21 | Reload                                             | [Link](./2024-09-21_Reloa "Reload")                                                                                                            |
 | 2024-09-20 | The Familiar                                       | [Link](./2024-09-20_The_Familiar "The Familiar")                                                                                               |
 | 2024-09-19 | Console Lines                                      | [Link](./2024-09-19_Console_Lines "Console Lines")                                                                                             |
 | 2024-09-18 | Wikifriends                                        | [Link](./2024-09-18_Wikifriends "Wikifriends")                                                                                                 |
