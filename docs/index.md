@@ -6,6 +6,7 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 
 | Date       | Title                                              | Link                                                                                                                                           |
 | ---------- | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2024-09-23 | IPoD                                               | [Link](./2024-09-23_IPoD "IPoD")                                                                                                               |
 | 2024-09-22 | Exercise                                           | [Link](./2024-09-22_Exercise "Exercise")                                                                                                       |
 | 2024-09-21 | Reload                                             | [Link](./2024-09-21_Reloa "Reload")                                                                                                            |
 | 2024-09-20 | The Familiar                                       | [Link](./2024-09-20_The_Familiar "The Familiar")                                                                                               |
