@@ -6,6 +6,7 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 
 | Date       | Title                                              | Link                                                                                                                                           |
 | ---------- | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2024-09-27 | Penises                                            | [Link](./2024-09-27_Penises "Penises")                                                                                                         |
 | 2024-09-26 | The Perfect Sound                                  | [Link](./2024-09-26_The_Perfect_Soun "The Perfect Sound")                                                                                      |
 | 2024-09-25 | Working for Google                                 | [Link](./2024-09-25_Working_for_Google "Working for Google")                                                                                   |
 | 2024-09-24 | Lojban                                             | [Link](./2024-09-24_Lojban "Lojban")                                                                                                           |
