@@ -6,6 +6,7 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 
 | Date       | Title                                              | Link                                                                                                                                           |
 | ---------- | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2024-09-29 | Command Line Fu                                    | [Link](./2024-09-29_Command_Line_Fu "Command Line Fu")                                                                                         |
 | 2024-09-28 | Map of the Internet                                | [Link](./2024-09-28_Map_of_the_Internet "Map of the Internet")                                                                                 |
 | 2024-09-27 | Penises                                            | [Link](./2024-09-27_Penises "Penises")                                                                                                         |
 | 2024-09-26 | The Perfect Sound                                  | [Link](./2024-09-26_The_Perfect_Soun "The Perfect Sound")                                                                                      |
