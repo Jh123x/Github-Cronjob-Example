@@ -6,6 +6,7 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 
 | Date       | Title                                              | Link                                                                                                                                           |
 | ---------- | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2024-10-01 | Perspective                                        | [Link](./2024-10-01_Perspective "Perspective")                                                                                                 |
 | 2024-09-30 | Ninja Turtles                                      | [Link](./2024-09-30_Ninja_Turtles "Ninja Turtles")                                                                                             |
 | 2024-09-29 | Command Line Fu                                    | [Link](./2024-09-29_Command_Line_Fu "Command Line Fu")                                                                                         |
 | 2024-09-28 | Map of the Internet                                | [Link](./2024-09-28_Map_of_the_Internet "Map of the Internet")                                                                                 |
