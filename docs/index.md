@@ -6,6 +6,7 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 
 | Date       | Title                                              | Link                                                                                                                                           |
 | ---------- | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2024-10-02 | Right-Hand Rule                                    | [Link](./2024-10-02_Right-Hand_Rule "Right-Hand Rule")                                                                                         |
 | 2024-10-01 | Perspective                                        | [Link](./2024-10-01_Perspective "Perspective")                                                                                                 |
 | 2024-09-30 | Ninja Turtles                                      | [Link](./2024-09-30_Ninja_Turtles "Ninja Turtles")                                                                                             |
 | 2024-09-29 | Command Line Fu                                    | [Link](./2024-09-29_Command_Line_Fu "Command Line Fu")                                                                                         |
