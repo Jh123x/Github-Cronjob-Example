@@ -6,6 +6,7 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 
 | Date       | Title                                              | Link                                                                                                                                           |
 | ---------- | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2024-10-05 | YouTube                                            | [Link](./2024-10-05_YouTube "YouTube")                                                                                                         |
 | 2024-10-04 | Christmas GPS                                      | [Link](./2024-10-04_Christmas_GPS "Christmas GPS")                                                                                             |
 | 2024-10-03 | Bill Nye                                           | [Link](./2024-10-03_Bill_Nye "Bill Nye")                                                                                                       |
 | 2024-10-02 | Right-Hand Rule                                    | [Link](./2024-10-02_Right-Hand_Rule "Right-Hand Rule")                                                                                         |
