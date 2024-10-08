@@ -6,6 +6,7 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 
 | Date       | Title                                              | Link                                                                                                                                           |
 | ---------- | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2024-10-07 | America                                            | [Link](./2024-10-07_America "America")                                                                                                         |
 | 2024-10-06 | Hallucinations                                     | [Link](./2024-10-06_Hallucinations "Hallucinations")                                                                                           |
 | 2024-10-05 | YouTube                                            | [Link](./2024-10-05_YouTube "YouTube")                                                                                                         |
 | 2024-10-04 | Christmas GPS                                      | [Link](./2024-10-04_Christmas_GPS "Christmas GPS")                                                                                             |
