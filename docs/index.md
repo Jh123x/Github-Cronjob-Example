@@ -6,6 +6,7 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 
 | Date       | Title                                              | Link                                                                                                                                           |
 | ---------- | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2024-10-09 | Reno Rhymes                                        | [Link](./2024-10-09_Reno_Rhymes "Reno Rhymes")                                                                                                 |
 | 2024-10-08 | Candy Button Paper                                 | [Link](./2024-10-08_Candy_Button_Paper "Candy Button Paper")                                                                                   |
 | 2024-10-07 | America                                            | [Link](./2024-10-07_America "America")                                                                                                         |
 | 2024-10-06 | Hallucinations                                     | [Link](./2024-10-06_Hallucinations "Hallucinations")                                                                                           |
