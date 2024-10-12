@@ -6,6 +6,7 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 
 | Date       | Title                                              | Link                                                                                                                                           |
 | ---------- | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2024-10-11 | Regular Expressions                                | [Link](./2024-10-11_Regular_Expressions "Regular Expressions")                                                                                 |
 | 2024-10-10 | What xkcd Means                                    | [Link](./2024-10-10_What_xkcd_Means "What xkcd Means")                                                                                         |
 | 2024-10-09 | Reno Rhymes                                        | [Link](./2024-10-09_Reno_Rhymes "Reno Rhymes")                                                                                                 |
 | 2024-10-08 | Candy Button Paper                                 | [Link](./2024-10-08_Candy_Button_Paper "Candy Button Paper")                                                                                   |
