@@ -6,6 +6,7 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 
 | Date       | Title                                              | Link                                                                                                                                           |
 | ---------- | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2024-10-16 | Ghostbusters Marathon                              | [Link](./2024-10-16_Ghostbusters_Marathon "Ghostbusters Marathon")                                                                             |
 | 2024-10-15 | Brain                                              | [Link](./2024-10-15_Brain "Brain")                                                                                                             |
 | 2024-10-14 | Hamster Ball Heist                                 | [Link](./2024-10-14_Hamster_Ball_Heist "Hamster Ball Heist")                                                                                   |
 | 2024-10-13 | 90's Flowchart                                     | [Link](./2024-10-13_90%27s_Flowchart "90's Flowchart")                                                                                         |
