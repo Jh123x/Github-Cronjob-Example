@@ -6,6 +6,7 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 
 | Date       | Title                                              | Link                                                                                                                                           |
 | ---------- | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2024-10-21 | Nintendo Surgeon                                   | [Link](./2024-10-21_Nintendo_Surgeon "Nintendo Surgeon")                                                                                       |
 | 2024-10-20 | e to the pi Minus pi                               | [Link](./2024-10-20_e_to_the_pi_Minus_pi "e to the pi Minus pi")                                                                               |
 | 2024-10-19 | Romantic Drama Equation                            | [Link](./2024-10-19_Romantic_Drama_Equation "Romantic Drama Equation")                                                                         |
 | 2024-10-18 | Letting Go                                         | [Link](./2024-10-18_Letting_Go "Letting Go")                                                                                                   |
