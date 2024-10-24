@@ -6,6 +6,7 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 
 | Date       | Title                                              | Link                                                                                                                                           |
 | ---------- | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2024-10-23 | Philosophy                                         | [Link](./2024-10-23_Philosophy "Philosophy")                                                                                                   |
 | 2024-10-22 | Blanket Fort                                       | [Link](./2024-10-22_Blanket_Fort "Blanket Fort")                                                                                               |
 | 2024-10-21 | Nintendo Surgeon                                   | [Link](./2024-10-21_Nintendo_Surgeon "Nintendo Surgeon")                                                                                       |
 | 2024-10-20 | e to the pi Minus pi                               | [Link](./2024-10-20_e_to_the_pi_Minus_pi "e to the pi Minus pi")                                                                               |
