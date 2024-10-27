@@ -6,6 +6,8 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 
 | Date       | Title                                              | Link                                                                                                                                           |
 | ---------- | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2024-10-26 | Valentine's Day                                    | [Link](./2024-10-26_Valentine%27s_Day "Valentine's Day")                                                                                       |
+| 2024-10-25 | Small Talk                                         | [Link](./2024-10-25_Small_Talk "Small Talk")                                                                                                   |
 | 2024-10-24 | Random Number                                      | [Link](./2024-10-24_Random_Number "Random Number")                                                                                             |
 | 2024-10-23 | Philosophy                                         | [Link](./2024-10-23_Philosophy "Philosophy")                                                                                                   |
 | 2024-10-22 | Blanket Fort                                       | [Link](./2024-10-22_Blanket_Fort "Blanket Fort")                                                                                               |
