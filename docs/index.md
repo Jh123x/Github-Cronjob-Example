@@ -6,6 +6,7 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 
 | Date       | Title                                              | Link                                                                                                                                           |
 | ---------- | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2024-10-27 | Lisp                                               | [Link](./2024-10-27_Lisp "Lisp")                                                                                                               |
 | 2024-10-26 | Valentine's Day                                    | [Link](./2024-10-26_Valentine%27s_Day "Valentine's Day")                                                                                       |
 | 2024-10-25 | Small Talk                                         | [Link](./2024-10-25_Small_Talk "Small Talk")                                                                                                   |
 | 2024-10-24 | Random Number                                      | [Link](./2024-10-24_Random_Number "Random Number")                                                                                             |
