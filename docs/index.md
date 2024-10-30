@@ -6,6 +6,7 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 
 | Date       | Title                                              | Link                                                                                                                                           |
 | ---------- | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2024-10-29 | Swingset                                           | [Link](./2024-10-29_Swingset "Swingset")                                                                                                       |
 | 2024-10-28 | Open Source                                        | [Link](./2024-10-28_Open_Source "Open Source")                                                                                                 |
 | 2024-10-27 | Lisp                                               | [Link](./2024-10-27_Lisp "Lisp")                                                                                                               |
 | 2024-10-26 | Valentine's Day                                    | [Link](./2024-10-26_Valentine%27s_Day "Valentine's Day")                                                                                       |
