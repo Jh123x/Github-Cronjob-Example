@@ -26,7 +26,7 @@ CONTENT_PAGE_SPLIT = f"| {'-'*10} | {'-'*50} | {'-'*142} |"
 
 
 def clean_title(title: str) -> str:
-    return re.sub(r'[^\x00-\x7f]',r'', title).replace(" ", "_")
+    return re.sub(r'[^\x00-\x7f]',r'', title).replace(" ", "_").replace(":","")
 
 
 def generate_file_name(title: str, date: str) -> str:
