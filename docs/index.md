@@ -6,6 +6,7 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 
 | Date       | Title                                              | Link                                                                                                                                           |
 | ---------- | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2024-11-10 | Pet Peeve #114                                     | [Link](./2024-11-10_Pet_Peeve_%23114 "Pet Peeve #114")                                                                                         |
 | 2024-11-09 | Keyboards are Disgusting                           | [Link](./2024-11-09_Keyboards_are_Disgusting "Keyboards are Disgusting")                                                                       |
 | 2024-11-08 | Collecting Double-Takes                            | [Link](./2024-11-08_Collecting_Double-Takes "Collecting Double-Takes")                                                                         |
 | 2024-11-07 | Kite                                               | [Link](./2024-11-07_Kite "Kite")                                                                                                               |
@@ -98,14 +99,14 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 | 2024-08-12 | Mispronouncing                                     | [Link](./2024-08-12_Mispronouncing "Mispronouncing")                                                                                           |
 | 2024-08-11 | A Way So Familiar                                  | [Link](./2024-08-11_A_Way_So_Familiar "A Way So Familiar")                                                                                     |
 | 2024-08-10 | Join Myspace                                       | [Link](./2024-08-10_Join_Myspace "Join Myspace")                                                                                               |
-| 2024-08-09 | Parody Week: Dinosaur Comics                       | [Link](./2024-08-09_Parody_Week_Dinosaur_Comics "Parody Week: Dinosaur Comics")                                                                |
 | 2024-08-09 | Parody Week: Dinosaur Comics                       | [Link](./2024-08-09_Parody_Week%3A_Dinosaur_Comics "Parody Week: Dinosaur Comics")                                                             |
-| 2024-08-08 | Parody Week: A Softer World                        | [Link](./2024-08-08_Parody_Week_A_Softer_Worl "Parody Week: A Softer World")                                                                   |
+| 2024-08-09 | Parody Week: Dinosaur Comics                       | [Link](./2024-08-09_Parody_Week_Dinosaur_Comics "Parody Week: Dinosaur Comics")                                                                |
 | 2024-08-08 | Parody Week: A Softer World                        | [Link](./2024-08-08_Parody_Week%3A_A_Softer_Worl "Parody Week: A Softer World")                                                                |
+| 2024-08-08 | Parody Week: A Softer World                        | [Link](./2024-08-08_Parody_Week_A_Softer_Worl "Parody Week: A Softer World")                                                                   |
 | 2024-08-07 | Parody Week: TFD and Natalie Dee                   | [Link](./2024-08-07_Parody_Week_TFD_and_Natalie_Dee "Parody Week: TFD and Natalie Dee")                                                        |
 | 2024-08-07 | Parody Week: TFD and Natalie Dee                   | [Link](./2024-08-07_Parody_Week%3A_TFD_and_Natalie_Dee "Parody Week: TFD and Natalie Dee")                                                     |
-| 2024-08-06 | Parody Week: Megatokyo                             | [Link](./2024-08-06_Parody_Week_Megatokyo "Parody Week: Megatokyo")                                                                            |
 | 2024-08-06 | Parody Week: Megatokyo                             | [Link](./2024-08-06_Parody_Week%3A_Megatokyo "Parody Week: Megatokyo")                                                                         |
+| 2024-08-06 | Parody Week: Megatokyo                             | [Link](./2024-08-06_Parody_Week_Megatokyo "Parody Week: Megatokyo")                                                                            |
 | 2024-08-05 | Parody Week: Achewood                              | [Link](./2024-08-05_Parody_Week%3A_Achewoo "Parody Week: Achewood")                                                                            |
 | 2024-08-05 | Parody Week: Achewood                              | [Link](./2024-08-05_Parody_Week_Achewoo "Parody Week: Achewood")                                                                               |
 | 2024-08-04 | Delicious                                          | [Link](./2024-08-04_Delicious "Delicious")                                                                                                     |
