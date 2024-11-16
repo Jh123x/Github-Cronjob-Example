@@ -6,6 +6,7 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 
 | Date       | Title                                              | Link                                                                                                                                           |
 | ---------- | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2024-11-15 | Appropriate Term                                   | [Link](./2024-11-15_Appropriate_Ter "Appropriate Term")                                                                                        |
 | 2024-11-14 | The Difference                                     | [Link](./2024-11-14_The_Difference "The Difference")                                                                                           |
 | 2024-11-13 | Battle Room                                        | [Link](./2024-11-13_Battle_Roo "Battle Room")                                                                                                  |
 | 2024-11-12 | Dream Girl                                         | [Link](./2024-11-12_Dream_Girl "Dream Girl")                                                                                                   |
@@ -107,8 +108,8 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 | 2024-08-09 | Parody Week: Dinosaur Comics                       | [Link](./2024-08-09_Parody_Week%3A_Dinosaur_Comics "Parody Week: Dinosaur Comics")                                                             |
 | 2024-08-08 | Parody Week: A Softer World                        | [Link](./2024-08-08_Parody_Week%3A_A_Softer_Worl "Parody Week: A Softer World")                                                                |
 | 2024-08-08 | Parody Week: A Softer World                        | [Link](./2024-08-08_Parody_Week_A_Softer_Worl "Parody Week: A Softer World")                                                                   |
-| 2024-08-07 | Parody Week: TFD and Natalie Dee                   | [Link](./2024-08-07_Parody_Week_TFD_and_Natalie_Dee "Parody Week: TFD and Natalie Dee")                                                        |
 | 2024-08-07 | Parody Week: TFD and Natalie Dee                   | [Link](./2024-08-07_Parody_Week%3A_TFD_and_Natalie_Dee "Parody Week: TFD and Natalie Dee")                                                     |
+| 2024-08-07 | Parody Week: TFD and Natalie Dee                   | [Link](./2024-08-07_Parody_Week_TFD_and_Natalie_Dee "Parody Week: TFD and Natalie Dee")                                                        |
 | 2024-08-06 | Parody Week: Megatokyo                             | [Link](./2024-08-06_Parody_Week%3A_Megatokyo "Parody Week: Megatokyo")                                                                         |
 | 2024-08-06 | Parody Week: Megatokyo                             | [Link](./2024-08-06_Parody_Week_Megatokyo "Parody Week: Megatokyo")                                                                            |
 | 2024-08-05 | Parody Week: Achewood                              | [Link](./2024-08-05_Parody_Week_Achewoo "Parody Week: Achewood")                                                                               |
