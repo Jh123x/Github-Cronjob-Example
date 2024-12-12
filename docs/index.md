@@ -6,6 +6,7 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 
 | Date       | Title                                              | Link                                                                                                                                           |
 | ---------- | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2024-12-11 | TCMP                                               | [Link](./2024-12-11_TCMP "TCMP")                                                                                                               |
 | 2024-12-10 | Choices: Part 5                                    | [Link](./2024-12-10_Choices_Part_5 "Choices: Part 5")                                                                                          |
 | 2024-12-09 | Choices: Part 4                                    | [Link](./2024-12-09_Choices_Part_4 "Choices: Part 4")                                                                                          |
 | 2024-12-08 | Choices: Part 3                                    | [Link](./2024-12-08_Choices_Part_3 "Choices: Part 3")                                                                                          |
