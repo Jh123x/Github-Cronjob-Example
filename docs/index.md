@@ -6,6 +6,7 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 
 | Date       | Title                                              | Link                                                                                                                                           |
 | ---------- | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2024-12-13 | Powers of One                                      | [Link](./2024-12-13_Powers_of_One "Powers of One")                                                                                             |
 | 2024-12-12 | Merlin                                             | [Link](./2024-12-12_Merlin "Merlin")                                                                                                           |
 | 2024-12-11 | TCMP                                               | [Link](./2024-12-11_TCMP "TCMP")                                                                                                               |
 | 2024-12-10 | Choices: Part 5                                    | [Link](./2024-12-10_Choices_Part_5 "Choices: Part 5")                                                                                          |
@@ -133,8 +134,8 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 | 2024-08-10 | Join Myspace                                       | [Link](./2024-08-10_Join_Myspace "Join Myspace")                                                                                               |
 | 2024-08-09 | Parody Week: Dinosaur Comics                       | [Link](./2024-08-09_Parody_Week_Dinosaur_Comics "Parody Week: Dinosaur Comics")                                                                |
 | 2024-08-09 | Parody Week: Dinosaur Comics                       | [Link](./2024-08-09_Parody_Week%3A_Dinosaur_Comics "Parody Week: Dinosaur Comics")                                                             |
-| 2024-08-08 | Parody Week: A Softer World                        | [Link](./2024-08-08_Parody_Week_A_Softer_Worl "Parody Week: A Softer World")                                                                   |
 | 2024-08-08 | Parody Week: A Softer World                        | [Link](./2024-08-08_Parody_Week%3A_A_Softer_Worl "Parody Week: A Softer World")                                                                |
+| 2024-08-08 | Parody Week: A Softer World                        | [Link](./2024-08-08_Parody_Week_A_Softer_Worl "Parody Week: A Softer World")                                                                   |
 | 2024-08-07 | Parody Week: TFD and Natalie Dee                   | [Link](./2024-08-07_Parody_Week%3A_TFD_and_Natalie_Dee "Parody Week: TFD and Natalie Dee")                                                     |
 | 2024-08-07 | Parody Week: TFD and Natalie Dee                   | [Link](./2024-08-07_Parody_Week_TFD_and_Natalie_Dee "Parody Week: TFD and Natalie Dee")                                                        |
 | 2024-08-06 | Parody Week: Megatokyo                             | [Link](./2024-08-06_Parody_Week%3A_Megatokyo "Parody Week: Megatokyo")                                                                         |
