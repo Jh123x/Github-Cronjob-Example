@@ -6,6 +6,7 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 
 | Date       | Title                                              | Link                                                                                                                                           |
 | ---------- | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2024-12-20 | Black Hat Support                                  | [Link](./2024-12-20_Black_Hat_Support "Black Hat Support")                                                                                     |
 | 2024-12-19 | Long Light                                         | [Link](./2024-12-19_Long_Light "Long Light")                                                                                                   |
 | 2024-12-18 | Fixed Width                                        | [Link](./2024-12-18_Fixed_Width "Fixed Width")                                                                                                 |
 | 2024-12-17 | Thoughts                                           | [Link](./2024-12-17_Thoughts "Thoughts")                                                                                                       |
@@ -138,10 +139,10 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 | 2024-08-12 | Mispronouncing                                     | [Link](./2024-08-12_Mispronouncing "Mispronouncing")                                                                                           |
 | 2024-08-11 | A Way So Familiar                                  | [Link](./2024-08-11_A_Way_So_Familiar "A Way So Familiar")                                                                                     |
 | 2024-08-10 | Join Myspace                                       | [Link](./2024-08-10_Join_Myspace "Join Myspace")                                                                                               |
-| 2024-08-09 | Parody Week: Dinosaur Comics                       | [Link](./2024-08-09_Parody_Week%3A_Dinosaur_Comics "Parody Week: Dinosaur Comics")                                                             |
 | 2024-08-09 | Parody Week: Dinosaur Comics                       | [Link](./2024-08-09_Parody_Week_Dinosaur_Comics "Parody Week: Dinosaur Comics")                                                                |
-| 2024-08-08 | Parody Week: A Softer World                        | [Link](./2024-08-08_Parody_Week%3A_A_Softer_Worl "Parody Week: A Softer World")                                                                |
+| 2024-08-09 | Parody Week: Dinosaur Comics                       | [Link](./2024-08-09_Parody_Week%3A_Dinosaur_Comics "Parody Week: Dinosaur Comics")                                                             |
 | 2024-08-08 | Parody Week: A Softer World                        | [Link](./2024-08-08_Parody_Week_A_Softer_Worl "Parody Week: A Softer World")                                                                   |
+| 2024-08-08 | Parody Week: A Softer World                        | [Link](./2024-08-08_Parody_Week%3A_A_Softer_Worl "Parody Week: A Softer World")                                                                |
 | 2024-08-07 | Parody Week: TFD and Natalie Dee                   | [Link](./2024-08-07_Parody_Week_TFD_and_Natalie_Dee "Parody Week: TFD and Natalie Dee")                                                        |
 | 2024-08-07 | Parody Week: TFD and Natalie Dee                   | [Link](./2024-08-07_Parody_Week%3A_TFD_and_Natalie_Dee "Parody Week: TFD and Natalie Dee")                                                     |
 | 2024-08-06 | Parody Week: Megatokyo                             | [Link](./2024-08-06_Parody_Week%3A_Megatokyo "Parody Week: Megatokyo")                                                                         |
