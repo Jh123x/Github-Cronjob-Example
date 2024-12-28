@@ -16,10 +16,15 @@ jobs:
           ref: main
       - uses: actions/setup-python@v5
         with:
-          python-version: "3.11.x"
+          python-version: "3.13.x"
           cache: "pip"
       - name: Install dependencies
         run: pip install -r requirements.txt
+      - name: Cache build
+        uses: actions/cache@v2
+        with:
+          path: ~/cache_build
+          key: ${{ runner.os }}-${{ hashFiles('./requirements.txt') }}
       - name: Check codes
         run: python main.py
       - name: Update repo with new data
