@@ -6,6 +6,7 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 
 | Date       | Title                                              | Link                                                                                                                                           |
 | ---------- | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2025-01-28 | That Lovin' Feelin'                                | [Link](./2025-01-28_That_Lovin%27_Feelin%27 "That Lovin' Feelin'")                                                                             |
 | 2025-01-27 | Loud Sex                                           | [Link](./2025-01-27_Loud_Sex "Loud Sex")                                                                                                       |
 | 2025-01-26 | Braille                                            | [Link](./2025-01-26_Braille "Braille")                                                                                                         |
 | 2025-01-25 | Dating Pools                                       | [Link](./2025-01-25_Dating_Pools "Dating Pools")                                                                                               |
@@ -177,8 +178,8 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 | 2024-08-12 | Mispronouncing                                     | [Link](./2024-08-12_Mispronouncing "Mispronouncing")                                                                                           |
 | 2024-08-11 | A Way So Familiar                                  | [Link](./2024-08-11_A_Way_So_Familiar "A Way So Familiar")                                                                                     |
 | 2024-08-10 | Join Myspace                                       | [Link](./2024-08-10_Join_Myspace "Join Myspace")                                                                                               |
-| 2024-08-09 | Parody Week: Dinosaur Comics                       | [Link](./2024-08-09_Parody_Week_Dinosaur_Comics "Parody Week: Dinosaur Comics")                                                                |
 | 2024-08-09 | Parody Week: Dinosaur Comics                       | [Link](./2024-08-09_Parody_Week%3A_Dinosaur_Comics "Parody Week: Dinosaur Comics")                                                             |
+| 2024-08-09 | Parody Week: Dinosaur Comics                       | [Link](./2024-08-09_Parody_Week_Dinosaur_Comics "Parody Week: Dinosaur Comics")                                                                |
 | 2024-08-08 | Parody Week: A Softer World                        | [Link](./2024-08-08_Parody_Week%3A_A_Softer_Worl "Parody Week: A Softer World")                                                                |
 | 2024-08-08 | Parody Week: A Softer World                        | [Link](./2024-08-08_Parody_Week_A_Softer_Worl "Parody Week: A Softer World")                                                                   |
 | 2024-08-07 | Parody Week: TFD and Natalie Dee                   | [Link](./2024-08-07_Parody_Week%3A_TFD_and_Natalie_Dee "Parody Week: TFD and Natalie Dee")                                                     |
