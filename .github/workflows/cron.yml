@@ -20,11 +20,6 @@ jobs:
           cache: "pip"
       - name: Install dependencies
         run: pip install -r requirements.txt
-      - name: Cache build
-        uses: actions/cache@v2
-        with:
-          path: ~/cache_build
-          key: ${{ runner.os }}-${{ hashFiles('./requirements.txt') }}
       - name: Check codes
         run: python main.py
       - name: Update repo with new data
