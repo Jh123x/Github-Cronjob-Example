@@ -6,6 +6,11 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 
 | Date       | Title                                              | Link                                                                                                                                           |
 | ---------- | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2025-03-07 | Couple                                             | [Link](./2025-03-07_Couple "Couple")                                                                                                           |
+| 2025-03-06 | Startling                                          | [Link](./2025-03-06_Startling "Startling")                                                                                                     |
+| 2025-03-05 | Python                                             | [Link](./2025-03-05_Python "Python")                                                                                                           |
+| 2025-03-04 | Far Away                                           | [Link](./2025-03-04_Far_Away "Far Away")                                                                                                       |
+| 2025-03-03 | Trolling                                           | [Link](./2025-03-03_Trolling "Trolling")                                                                                                       |
 | 2025-03-02 | Network                                            | [Link](./2025-03-02_Network "Network")                                                                                                         |
 | 2025-03-01 | Success                                            | [Link](./2025-03-01_Success "Success")                                                                                                         |
 | 2025-02-28 | Close to You                                       | [Link](./2025-02-28_Close_to_You "Close to You")                                                                                               |
@@ -211,14 +216,14 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 | 2024-08-12 | Mispronouncing                                     | [Link](./2024-08-12_Mispronouncing "Mispronouncing")                                                                                           |
 | 2024-08-11 | A Way So Familiar                                  | [Link](./2024-08-11_A_Way_So_Familiar "A Way So Familiar")                                                                                     |
 | 2024-08-10 | Join Myspace                                       | [Link](./2024-08-10_Join_Myspace "Join Myspace")                                                                                               |
-| 2024-08-09 | Parody Week: Dinosaur Comics                       | [Link](./2024-08-09_Parody_Week_Dinosaur_Comics "Parody Week: Dinosaur Comics")                                                                |
 | 2024-08-09 | Parody Week: Dinosaur Comics                       | [Link](./2024-08-09_Parody_Week%3A_Dinosaur_Comics "Parody Week: Dinosaur Comics")                                                             |
+| 2024-08-09 | Parody Week: Dinosaur Comics                       | [Link](./2024-08-09_Parody_Week_Dinosaur_Comics "Parody Week: Dinosaur Comics")                                                                |
 | 2024-08-08 | Parody Week: A Softer World                        | [Link](./2024-08-08_Parody_Week%3A_A_Softer_Worl "Parody Week: A Softer World")                                                                |
 | 2024-08-08 | Parody Week: A Softer World                        | [Link](./2024-08-08_Parody_Week_A_Softer_Worl "Parody Week: A Softer World")                                                                   |
-| 2024-08-07 | Parody Week: TFD and Natalie Dee                   | [Link](./2024-08-07_Parody_Week_TFD_and_Natalie_Dee "Parody Week: TFD and Natalie Dee")                                                        |
 | 2024-08-07 | Parody Week: TFD and Natalie Dee                   | [Link](./2024-08-07_Parody_Week%3A_TFD_and_Natalie_Dee "Parody Week: TFD and Natalie Dee")                                                     |
-| 2024-08-06 | Parody Week: Megatokyo                             | [Link](./2024-08-06_Parody_Week_Megatokyo "Parody Week: Megatokyo")                                                                            |
+| 2024-08-07 | Parody Week: TFD and Natalie Dee                   | [Link](./2024-08-07_Parody_Week_TFD_and_Natalie_Dee "Parody Week: TFD and Natalie Dee")                                                        |
 | 2024-08-06 | Parody Week: Megatokyo                             | [Link](./2024-08-06_Parody_Week%3A_Megatokyo "Parody Week: Megatokyo")                                                                         |
+| 2024-08-06 | Parody Week: Megatokyo                             | [Link](./2024-08-06_Parody_Week_Megatokyo "Parody Week: Megatokyo")                                                                            |
 | 2024-08-05 | Parody Week: Achewood                              | [Link](./2024-08-05_Parody_Week%3A_Achewoo "Parody Week: Achewood")                                                                            |
 | 2024-08-05 | Parody Week: Achewood                              | [Link](./2024-08-05_Parody_Week_Achewoo "Parody Week: Achewood")                                                                               |
 | 2024-08-04 | Delicious                                          | [Link](./2024-08-04_Delicious "Delicious")                                                                                                     |
