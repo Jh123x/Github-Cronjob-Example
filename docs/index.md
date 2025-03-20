@@ -6,6 +6,7 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 
 | Date       | Title                                              | Link                                                                                                                                           |
 | ---------- | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2025-03-19 | Fandom                                             | [Link](./2025-03-19_Fando "Fandom")                                                                                                            |
 | 2025-03-18 | Your Mom                                           | [Link](./2025-03-18_Your_Mo "Your Mom")                                                                                                        |
 | 2025-03-17 | Slides                                             | [Link](./2025-03-17_Slides "Slides")                                                                                                           |
 | 2025-03-16 | Responsible Behavior                               | [Link](./2025-03-16_Responsible_Behavior "Responsible Behavior")                                                                               |
@@ -229,10 +230,10 @@ All images here belong to [xkcd.com](https://xkcd.com "xkcd.com")
 | 2024-08-10 | Join Myspace                                       | [Link](./2024-08-10_Join_Myspace "Join Myspace")                                                                                               |
 | 2024-08-09 | Parody Week: Dinosaur Comics                       | [Link](./2024-08-09_Parody_Week%3A_Dinosaur_Comics "Parody Week: Dinosaur Comics")                                                             |
 | 2024-08-09 | Parody Week: Dinosaur Comics                       | [Link](./2024-08-09_Parody_Week_Dinosaur_Comics "Parody Week: Dinosaur Comics")                                                                |
-| 2024-08-08 | Parody Week: A Softer World                        | [Link](./2024-08-08_Parody_Week_A_Softer_Worl "Parody Week: A Softer World")                                                                   |
 | 2024-08-08 | Parody Week: A Softer World                        | [Link](./2024-08-08_Parody_Week%3A_A_Softer_Worl "Parody Week: A Softer World")                                                                |
-| 2024-08-07 | Parody Week: TFD and Natalie Dee                   | [Link](./2024-08-07_Parody_Week%3A_TFD_and_Natalie_Dee "Parody Week: TFD and Natalie Dee")                                                     |
+| 2024-08-08 | Parody Week: A Softer World                        | [Link](./2024-08-08_Parody_Week_A_Softer_Worl "Parody Week: A Softer World")                                                                   |
 | 2024-08-07 | Parody Week: TFD and Natalie Dee                   | [Link](./2024-08-07_Parody_Week_TFD_and_Natalie_Dee "Parody Week: TFD and Natalie Dee")                                                        |
+| 2024-08-07 | Parody Week: TFD and Natalie Dee                   | [Link](./2024-08-07_Parody_Week%3A_TFD_and_Natalie_Dee "Parody Week: TFD and Natalie Dee")                                                     |
 | 2024-08-06 | Parody Week: Megatokyo                             | [Link](./2024-08-06_Parody_Week_Megatokyo "Parody Week: Megatokyo")                                                                            |
 | 2024-08-06 | Parody Week: Megatokyo                             | [Link](./2024-08-06_Parody_Week%3A_Megatokyo "Parody Week: Megatokyo")                                                                         |
 | 2024-08-05 | Parody Week: Achewood                              | [Link](./2024-08-05_Parody_Week%3A_Achewoo "Parody Week: Achewood")                                                                            |
